@@ -27,7 +27,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: The extended lifecycle method is required in a React class component.
 
-  Researched answer: Constructor is the lifecycle method required in a React class component because it is used to create data that belongs to the class.
+  Researched answer: The render method is required in a React class component and returns one element.
 
 
 
@@ -43,7 +43,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Yarn is an app development tool. The files that are modified in a React application when yarn is run are app.js and app.css.
 
-  Researched answer: Yarn is a package manager for JavaScript.
+  Researched answer: Yarn is a package manager for JavaScript. The files that are modified in a React application are yarn.lock and node_modules.
 
 
 
@@ -57,7 +57,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. Conditional rendering: The ability to create components and render them based on certain conditions.  
 
-2. Object-oriented programming: Is a computer programming model that organizes software design around data, or objects instead of functions and logic.
+2. Object-oriented programming: A programming model that organizes software design around data, or objects instead of functions and logic.
 
 3. Ruby: A dynamic, open source programming language that focuses on productivity and simplicity.
 
