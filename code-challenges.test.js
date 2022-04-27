@@ -33,9 +33,10 @@ describe("fibonacciNumbers", () => {
 })
 
 // Pseudocode
-// Create a function called fibonacciNumbers
+// Create a function called fibonacciNumbers that takes in a number
 // Iteration with a for loop
 // Access each index and perform addition
+// Use push method to add elments to end of array
 // Expected output: [1, 1, 2, 3, 5, 8]
 // Expected output: [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 
@@ -85,10 +86,11 @@ describe("oddNumbersFiltered", () => {
 //    ReferenceError: oddNumbersFiltered is not defined
 
 // Pseudocode
-// Create a function called oddNumbersFiltered.
-// Take in array.
-// Use filter to iterate conditon of typeof number
-// Use sort to order from least to greatest
+// Create a function called oddNumbersFiltered that takes in an array.
+// Use filter to create a new array
+// Use if statement to iterate
+// Create a statement to seperate odd numbers
+// Use sort method to order from least to greatest
 // Expected output: [-9, 7, 9, 199]
 // Expected output: [-823, 7, 23]
 
@@ -134,10 +136,10 @@ describe("sumNumbers", () => {
 })
 
 // Pseudocode
-// Create a function called sumNumbers
-// Parameter - array
-// Make a decision on every item in array - map
-// Conditional to evaluate
+// Create a function called sumNumbers that takes in an array
+// Use the map method to hold key value pair
+// Use if statement to iterate
+// Use return statements to accumulate sum
 // Expected output: [2, 6, 51, 60
 // Expected output: [0, 7, -1, 11]
 // Expected output: []
