@@ -9,59 +9,58 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is `this` in JavaScript?
 
-  Your answer:
+  Your answer: In JavaScript `this` is a keyword that refers to the object inside of itself.
 
-  Researched answer:
+  Researched answer: In JavaScript `this` is a keyword that refers to the object it belongs to.
 
 
 
 2. What is React? Why would you use it?
 
-  Your answer:
+  Your answer: React is a dynamic app constructor. You would use it to develop apps and other applications.
 
-  Researched answer:
+  Researched answer: React is a JavaScript library that is used to create user interfaces. You would use React to develop webpages, mobile webpages, and other mobile applications.
 
 
 
 3. Which lifecycle method is required in a React class component?
 
-  Your answer:
+  Your answer: The extended lifecycle method is required in a React class component.
 
-  Researched answer:
+  Researched answer: The render method is required in a React class component and returns one element.
 
 
 
 4. What is JSX? What is one notable difference between HTML and JSX?
 
-  Your answer:
+  Your answer: JSX is JavaScript's version of HTML. The one notable difference between HTML and JSX is the syntax.  
 
-  Researched answer:
+  Researched answer: JSX is a JavaScript syntax extension that is similar to HTML. The one notable difference between HTML and JSX is the differences in syntax.
 
 
 
 5. What is yarn? What file(s) are modified in a React application when you run yarn?
 
-  Your answer:
+  Your answer: Yarn is an app development tool. The files that are modified in a React application when yarn is run are app.js and app.css.
 
-  Researched answer:
+  Researched answer: Yarn is a package manager for JavaScript. The files that are modified in a React application are yarn.lock and node_modules.
 
 
 
 6. STRETCH: What is an anonymous function in JavaScript?
 
-  Your answer:
+  Your answer: An anonymous function in JavaScript carries out a specific task without any parameters.
 
-  Researched answer:
-
+  Researched answer: An anonymous function in JavaScript is a function that is nameless.  
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering:
+1. Conditional rendering: The ability to create components and render them based on certain conditions.  
 
-2. Object-oriented programming:
+2. Object-oriented programming: A programming model that organizes software design around data, or objects instead of functions and logic.
 
-3. Ruby:
+3. Ruby: A dynamic, open source programming language that focuses on productivity and simplicity.
 
-4. Ruby blocks:
+4. Ruby blocks: Anonymous functions that can be passed into methods.
 
-5. Ruby hashes:
+5. Ruby hashes: A collection of unique keys and their values.
